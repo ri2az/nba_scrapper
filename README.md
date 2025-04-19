@@ -14,7 +14,6 @@ Un petit script Python pour récupérer les statistiques d'un joueur NBA depuis 
    ```bash
    git clone https://github.com/ton-utilisateur/nba-scrapper.git
    cd nba-scrapper
-```
 
 
 
