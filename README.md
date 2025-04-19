@@ -16,16 +16,7 @@ Un petit script Python pour récupérer les statistiques d'un joueur NBA depuis 
    cd nba-scrapper
 ```
 
-### 2️⃣ Installer les dépendances
-Assurez-vous d'avoir Python 3 installé, puis exécutez :
-```sh
-pip install -r requirements.txt
-```
 
-### 3️⃣ Lancer l'application
-```sh
-streamlit run app.py
-```
 
 
 
